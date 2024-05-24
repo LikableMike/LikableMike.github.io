@@ -48,6 +48,7 @@ body{
 .navbar{
 	/*border: 5px solid black;*/
 	text-align: center;
+	background-color: #161616;
 	height: 20%;
 	overflow: hidden;
 	margin-bottom: 7%;
