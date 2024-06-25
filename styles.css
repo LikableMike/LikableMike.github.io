@@ -56,7 +56,6 @@ body{
 
 .navbar a{
 	text-shadow: black 2px 0 2px;
-	font-family: Impact;
 	font-weight: bolder;
 	/*rotate: 15deg;*/
 	float: right;
@@ -68,7 +67,6 @@ body{
 
 .navbar #logo{
 	text-shadow: black 2px 0 2px;
-	font-family: Impact;
 	font-weight: bolder;
 	/*rotate: 15deg;*/
 	float: left;
@@ -116,7 +114,6 @@ body{
 
 .info{
 	margin-left: 10%;
-	font-family: Impact;
 	
 }
 
@@ -137,7 +134,6 @@ a:link{
 #about {
 	margin-left: 5%;
 	float:left;
-	font-family: Impact;
 	font-size: 25px;
 	font-weight: bold;
 	color: turquoise;
