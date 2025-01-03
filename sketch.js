@@ -1,7 +1,7 @@
 
 
 let pointValues = [];
-let dimension = 1000;
+let dimension = 600;
 let gridDimension = 100;
 let threshhold = 0.4;
 let RANDOM_START = false;
